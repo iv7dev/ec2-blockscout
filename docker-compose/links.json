@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Facebook",
+        "links": [
+            {
+                "text": "RSkHome",
+                "url": "https: //www.rsk.com"
+            }
+        ]
+    },
+    {
+        "title": "Twitter",
+        "links": [
+            {
+                "text": "RSkHome",
+                "url": "https: //www.rsk.com"
+            }
+        ]
+    },
+    {
+        "title": "Instagram",
+        "links": [
+            {
+                "text": "RSkHome",
+                "url": "https: //www.rsk.com"
+            }
+        ]
+    },
+    {
+        "title": "LightLink Phoenix",
+        "links": [
+            {
+                "text": "Sample",
+                "url": "https: //www.rsk.com"
+            }
+        ]
+    }
+]
